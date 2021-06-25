@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nguyentung9820
-- 👀 I’m front-end developer.
+- 👀 I’m magento developer.
 - 🌱 I’m currently learning at Ha Noi university of Science and Technology
 - 📫 my email: Nguyensontung9820@gmail.com
 
